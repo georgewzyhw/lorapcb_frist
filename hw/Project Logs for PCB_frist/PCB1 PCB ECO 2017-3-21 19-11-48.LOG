@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SPI2_SCK Pin=U2-13
+Removed Pin From Net: NetName=SPI2_MISO Pin=U2-14
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U2-15
+Removed Pin From Net: NetName=SPI2_NSS Pin=U2-16
+Removed Pin From Net: NetName=SPI1_SCK Pin=U3-13
+Removed Pin From Net: NetName=SPI1_MISO Pin=U3-14
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U3-15
+Removed Pin From Net: NetName=SPI1_NSS Pin=U3-16
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-13
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-14
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-15
+Added Pin To Net: NetName=SPI1_NSS Pin=U2-16
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-13
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-14
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-15
+Added Pin To Net: NetName=SPI2_NSS Pin=U3-16
+Change Net Name : Old Net Name=RF1_REST New Net Name=RF2_REST
+Change Net Name : Old Net Name=RF2_REST New Net Name=RF1_REST

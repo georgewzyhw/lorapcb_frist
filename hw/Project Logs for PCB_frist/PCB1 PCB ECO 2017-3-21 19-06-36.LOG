@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=RF2_REST Pin=U1-18
+Removed Pin From Net: NetName=LED2 Pin=U1-19
+Removed Pin From Net: NetName=DIO4 Pin=U1-21
+Removed Pin From Net: NetName=DIO5 Pin=U1-22
+Removed Pin From Net: NetName=DIO10 Pin=U1-29
+Removed Pin From Net: NetName=DIO11 Pin=U1-32
+Removed Pin From Net: NetName=DIO12 Pin=U1-33
+Removed Pin From Net: NetName=LED1 Pin=U1-38
+Removed Pin From Net: NetName=RF1_REST Pin=U1-41
+Removed Pin From Net: NetName=DIO0 Pin=U1-42
+Removed Pin From Net: NetName=DIO1 Pin=U1-43
+Removed Pin From Net: NetName=DIO2 Pin=U1-45
+Removed Pin From Net: NetName=DIO3 Pin=U1-46
+Added Pin To Net: NetName=DIO10 Pin=U1-18
+Added Pin To Net: NetName=DIO11 Pin=U1-19
+Added Pin To Net: NetName=DIO12 Pin=U1-21
+Added Pin To Net: NetName=RF2_REST Pin=U1-22
+Added Pin To Net: NetName=LED1 Pin=U1-32
+Added Pin To Net: NetName=LED2 Pin=U1-33
+Added Pin To Net: NetName=DIO0 Pin=U1-39
+Added Pin To Net: NetName=DIO1 Pin=U1-40
+Added Pin To Net: NetName=DIO2 Pin=U1-41
+Added Pin To Net: NetName=DIO3 Pin=U1-42
+Added Pin To Net: NetName=DIO4 Pin=U1-43
+Added Pin To Net: NetName=DIO5 Pin=U1-45
+Added Pin To Net: NetName=RF1_REST Pin=U1-46
+Added Room: Name=Sheet1

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DIO12 Pin=U1-18
+Removed Pin From Net: NetName=DIO11 Pin=U1-21
+Added Pin To Net: NetName=DIO11 Pin=U1-18
+Added Pin To Net: NetName=DIO12 Pin=U1-21
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM32F103C8T6
