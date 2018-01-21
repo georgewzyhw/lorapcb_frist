@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\apcb\PCB_frist\PCB1.PcbDoc
-Date     : 2017/10/29
-Time     : 8:16:20
+PCB File : E:\github\lorapcb_frist\hw\PCB1.PcbDoc
+Date     : 2018/1/20
+Time     : 18:48:38
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad Y2-1(143.002mm,83.312mm) on Multi-Layer on Net OSC32_IN
@@ -53,4 +53,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
